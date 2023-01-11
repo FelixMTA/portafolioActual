@@ -1,8 +1,9 @@
 
 
    <div class="wrap">
-    <a href="/ventana" class="btn btn-primary button">Go somewhere</a>
+    <a href="/ventana" class="btn btn-primary button">Ver más...</a>
   </div>
+
 
 <style>
  

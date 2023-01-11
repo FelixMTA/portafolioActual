@@ -1,10 +1,8 @@
-<h1>holajnkdfjnsdljnfjksdn</h1>
+<script>
+    import Cuadricula from "./componentesVentana/cuadricula.svelte";
+</script>
+
+<Cuadricula />
 
 
 
-
-<style>
-    h1 {
-        color: red;
-    }
-</style>

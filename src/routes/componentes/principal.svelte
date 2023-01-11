@@ -2,9 +2,9 @@
     import BotonAbsolute from "./botonAbsolute.svelte";
 </script>
 <div class="container">
+    
     <div class="row">
         <div class="col-xl-4 col-lg-7 col-md-12 ">
-
             <figure class="figure py-3 mt-5">
                 <img src="https://cdn.pixabay.com/photo/2013/01/05/21/02/art-74050_1280.jpg" class="figure-caption img-fluid rounded" alt="yop">
             </figure>
@@ -12,7 +12,6 @@
         <div class="col fw-bold center-content" >
             <h1 class="nombre py-3 ">
                Félix Santiago Martinez Pérez
-                
             </h1>
             <span class="type-effect"></span>
             <h5 class="nombre">Programador:)</h5>
@@ -22,6 +21,7 @@
                 <div>
                     
                    <BotonAbsolute/>
+                   
                 </div>
             </div>
 
